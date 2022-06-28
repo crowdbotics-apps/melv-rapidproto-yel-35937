@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-side-menu](screens/menu-screen)
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-token](screens/token)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
