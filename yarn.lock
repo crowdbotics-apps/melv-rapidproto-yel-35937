@@ -998,7 +998,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1227,6 +1227,9 @@
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
+  version "1.0.0"
+
+"@screens/signup@file:./screens/signup/":
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":

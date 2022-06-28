@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-token](screens/token)
 - [react-native-splash](modules/splash)
+- [screen-signup](screens/signup)
 
 # Getting started: Frontend
 
