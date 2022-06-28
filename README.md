@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signup](screens/signup)
 - [screen-profile](screens/profile)
 - [screen-privacy-policy](screens/privacy-policy)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
