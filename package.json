@@ -23,6 +23,7 @@
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
+    "@screens/token": "file:./screens/token/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
