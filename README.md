@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [screen-order-complete](screens/order-complete)
 - [screen-forgot-password](screens/forgot-password)
+- [screen-side-menu](screens/menu-screen)
 
 # Getting started: Frontend
 
