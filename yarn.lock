@@ -1226,7 +1226,10 @@
 "@screens/order-waiting-list@file:./screens/order-waiting-list":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/privacy-policy@file:./screens/privacy-policy/":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
