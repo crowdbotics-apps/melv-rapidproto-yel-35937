@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-complete](screens/order-complete)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-side-menu](screens/menu-screen)
+- [screen-store-order-waiting-list](screens/order-waiting-list)
 
 # Getting started: Frontend
 

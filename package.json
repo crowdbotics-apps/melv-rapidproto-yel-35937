@@ -19,6 +19,7 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/menu-screen": "file:./screens/menu-screen/",
     "@screens/order-complete": "file:./screens/order-complete/",
+    "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
