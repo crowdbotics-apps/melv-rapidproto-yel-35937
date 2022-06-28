@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-rate-the-app](screens/rate-the-app)
 - [screen-order-complete](screens/order-complete)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
