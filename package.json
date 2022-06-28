@@ -21,6 +21,7 @@
     "@screens/menu-screen": "file:./screens/menu-screen/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
+    "@screens/profile": "file:./screens/profile/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/support-faq": "file:./screens/support-faq/",

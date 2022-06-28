@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-token](screens/token)
 - [react-native-splash](modules/splash)
 - [screen-signup](screens/signup)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
